@@ -1,0 +1,5 @@
+- Inpatient (Operational)
+- Outpatient (Strategic)
+- Urgent Care (Ritual)
+- Emergency (Tactical)
+- First Aid (Existential)
