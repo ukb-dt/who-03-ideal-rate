@@ -1,13 +1,13 @@
  
 ### Step 1: Bottom-to-Top Table
 
-| Level of Care           | AI Type       | Functional Role                                 | Timeline (Adoption/Maturity) |
-| ----------------------- | ------------- | ----------------------------------------------- | ---------------------------- |
-| Inpatient (Operational) | Embodied AI   | Integrates all layers, adaptive and operational | 2027+                        |
-| Outpatient (Strategic)  | Generative AI | Plans, creates, simulates scenarios             | 2026–2027                    |
-| Urgent Care (Ritual)    | Agentic AI    | Performs routine, reliable tasks                | 2025–2026                    |
-| Emergency (Tactical)    | Perception AI | Detects, senses, reacts in real-time            | 2024–2025                    |
-| First Aid (Existential) | World AI      | Understands environment/context; foundational   | 2023–2024                    |
+| Level of Care           | AI Type       | Functional Role                                 | Response Rate               |
+| ----------------------- | ------------- | ----------------------------------------------- | --------------------------- |
+| Inpatient (Operational) | Embodied AI   | Integrates all layers, adaptive and operational | Variable - Discharge        |
+| Outpatient (Strategic)  | Generative AI | Plans, creates, simulates scenarios             | Weeks - Month               |
+| Urgent Care (Ritual)    | Agentic AI    | Performs routine, reliable tasks                | Days - Week                 |
+| Emergency (Tactical)    | Perception AI | Detects, senses, reacts in real-time            | Minutes - Hour              |
+| First Aid (Existential) | World AI      | Understands environment/context; foundational   | Seconds - Minutes           |
 
 ---
 
