@@ -14,17 +14,19 @@
 
 ### Reading the Stack
 
-**Bottom-Up (Foundation → Integration)**
-1. **First Aid / World AI** provides baseline context (maps, sensors, knowledge graphs)
-2. **Emergency / Perception AI** monitors for signals requiring attention
-3. **Urgent Care / Agentic AI** responds with autonomous workflows ← **explosive growth zone**
-4. **Outpatient / Generative AI** supports planning and creative problem-solving
-5. **Inpatient / Embodied AI** coordinates physical-digital integration in complex scenarios
+**Top-Down (Integration → Foundation)**
 
-**Why Emergency at Bottom?** 
+`5`. **Inpatient / Embodied AI** coordinates physical-digital integration in complex scenarios               
+`4`. **Outpatient / Generative AI** supports planning and creative problem-solving                   
+`3`. **Urgent Care / Agentic AI** responds with autonomous workflows ← **explosive growth zone**            
+`2`. **Emergency / Perception AI** monitors for signals requiring attention               
+`1`. **First Aid / World AI** provides baseline context (maps, sensors, knowledge graphs)              
+
+**Why Agentic in Middle?**
+
 - OpenAI projects **Agentic AI = $100B ARR by 2029** (their largest growth segment)
 - Agents require reliable perception infrastructure to function
-- Like healthcare: emergency departments need triage protocols (perception) before treatment (agency)
+- Like healthcare: urgent care coordinates between emergency triage and outpatient planning
 - Foundation enables scale; the action layer captures value
 
 ---
@@ -32,10 +34,11 @@
 ### For WHO-India Context
 
 **Vocabulary Expansion:** Instead of asking "should we use AI?", ask:
-- Do we need **World AI** to map health system context?
-- Do we need **Perception AI** to detect disease outbreaks?
-- Do we need **Agentic AI** to automate vaccine logistics? ← **highest ROI zone**
-- Do we need **Generative AI** to create training materials?
+
 - Do we need **Embodied AI** for robotic surgery at scale?
+- Do we need **Generative AI** to create training materials?
+- Do we need **Agentic AI** to automate vaccine logistics? ← **highest ROI zone**
+- Do we need **Perception AI** to detect disease outbreaks?
+- Do we need **World AI** to map health system context?
 
 **Investment Signal:** The market is betting on the middle layer (agents doing work), but it requires the bottom layers to function reliably.
