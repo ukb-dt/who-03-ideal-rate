@@ -2,7 +2,7 @@
 
 ### The Stack (Bottom-to-Top)
 
-| Level | Care Type | AI Type | Function | Response [Time]() | Market Signal |
+| Level | Care Type | AI Type | Function | Response [Time](https://ukb-dt.github.io/who-03-ideal-rate-prosody/) | Market Signal |
 |-------|-----------|---------|----------|---------------|---------------|
 | ⚪ **5** | **Inpatient** | Embodied AI | Integrates all layers into adaptive, physical systems | Aperiodic / On Discharge | Emerging |
 | 🔵 **4** | **Outpatient** | Generative AI | Creates content, plans scenarios, explores possibilities | Weeks - Month | $50B+ ARR (2025) |
