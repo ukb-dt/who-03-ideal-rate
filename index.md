@@ -5,9 +5,9 @@
 | Level | Care Type | AI Type | Function | Response [Time](https://ukb-dt.github.io/who-03-ideal-rate-prosody/) | Market Signal |
 |-------|-----------|---------|----------|---------------|---------------|
 | ⚪ **5** | **Inpatient** | Embodied AI | Integrates all layers into adaptive, physical systems | Aperiodic / On Discharge | Emerging |
-| 🔵 **4** | **Outpatient** | Generative AI | Creates content, plans scenarios, explores possibilities | Weeks - Month | $50B+ ARR (2025) |
+| 🟡 **4** | **Outpatient** | Generative AI | Creates content, plans scenarios, explores possibilities | Weeks - Month | $50B+ ARR (2025) |
 | 🟢 **3** | **Urgent Care** | Agentic AI | Executes workflows, automates routine decisions | Days - Week | **$100B ARR (2029)** |
-| 🟡 **2** | **Emergency** | Perception AI | Detects patterns, senses changes, triggers alerts | Minutes - Hour | Foundation |
+| 🔵 **2** | **Emergency** | Perception AI | Detects patterns, senses changes, triggers alerts | Minutes - Hour | Foundation |
 | 🔴 **1** | **First Aid** | World AI | Contextual understanding of environment/domain | Seconds - Minutes | Infrastructure |
 
 ---
